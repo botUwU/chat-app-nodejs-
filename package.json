@@ -1,0 +1,15 @@
+{
+  "name": "chat-app-self-try",
+  "version": "1.0.0",
+  "description": "basic chat application using node js socket and basic frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
